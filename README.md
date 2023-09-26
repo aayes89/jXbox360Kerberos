@@ -5,7 +5,7 @@ It allows you to establish authentication in a specific way or any user and pass
 
 # How to start
 - Import all classes into a new Maven project and change the package to the desired one and play
-- 
+  
 # TODO
 - Append an X509 certificate authentication
 - Add a bypass to load signed or unsigned apps, themes and galleries for avatars
