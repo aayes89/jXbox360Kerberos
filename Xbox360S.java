@@ -33,7 +33,7 @@ public class Xbox360S {
          */
 
         // Simula la obtención del nombre de usuario y contraseña del usuario
-        int port = 12345; // Puedes cambiar el puerto según tus necesidades
+        int port = 1257; // Puedes cambiar el puerto según tus necesidades
         try (ServerSocket serverSocket = new ServerSocket(port)) {
             System.out.println("Servidor esperando conexiones en el puerto " + port + "...");
 
