@@ -2,7 +2,7 @@
 First Kerberos server attempt for Xbox 360 authentication.
 
 It allows you to establish authentication in a specific way or any user and password profile you want, there is still a lot to do, but it is a good start.
-
+# How to start
 Change the name of the package and play. 
 # TODO
 - Append an X509 certificate authentication
